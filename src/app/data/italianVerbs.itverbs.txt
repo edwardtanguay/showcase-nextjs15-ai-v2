@@ -21,10 +21,9 @@ andare
 
 parlare
 pensare
-*chiamare
+chiamare
 lasciare
 arrivare
-sperare
 mangiare
 provare
 
@@ -35,6 +34,7 @@ completare
 passare
 guidare
 guardare
+sperare
 
 == ERE =================================
 PRES: -o, -i, -e, -iamo, -ete, -ono 
@@ -52,14 +52,16 @@ dovere
 potere
 
 sapere
-*vendere
+vendere
 prendere
 leggere
+chiudere
 
 rimanere
 nascere
 aggiungere
 rimuovere
+risolvere
 
 
 == IRE =================================
@@ -73,17 +75,19 @@ COND: -irei, -iresti, -irebbe, -iremmo, -ireste, -irebbero
 venire
 dire
 
-*partire
-uscire
-fornire
-dormire
+partire
+aprire
 
 capire
 finire
 apparire
 morire
 pulire
+uscire
+fornire
+dormire
 
+=======================================
 
 fare; to do/make; 4.9
 faccio, fai, fa, facciamo, fate, fanno
