@@ -28,12 +28,12 @@ eliminare
 cancellare
 
 == ERE =================================
-PRES: 
-PAPR: 
-IMPE: 
-PARE: 
-FUTU: 
-COND: 
+PRES: -o, -i, -e, -iamo, -ete, -ono 
+PAPR: ho/sono -uto
+IMPE: -evo, -evi, -eva, -evamo, -evate, -evano
+PARE: -ei, -esti, -é, -emmo, -este, -erono (etti, -, ette, -, -, ettero)
+FUTU: -erò, -erai, -erà, -eremo, -erete, -erano
+COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
 
 avere
 essere
