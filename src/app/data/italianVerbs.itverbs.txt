@@ -6,12 +6,13 @@ PARE: Passato remoto
 FUTU: Futuro semplice
 COND: Condizionale presente
 */
+
 == ARE =================================
 PRES: -o, -i, -a, -iamo, -ate, -ano 
 PAPR: ho/sono -ato
 IMPE: -avo, -avi, -ava, -avamo, -avate, -avano
 PARE: -ai, -asti, -ò, -ammo, -aste, -arono
-FUTU: -erò, -erai, -erà, -eremo, -erete, -erano
+FUTU: -erò, -erai, -erà, -eremo, -erete, -eranno
 COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
 
 stare
@@ -32,7 +33,7 @@ PRES: -o, -i, -e, -iamo, -ete, -ono
 PAPR: ho/sono -uto
 IMPE: -evo, -evi, -eva, -evamo, -evate, -evano
 PARE: -ei, -esti, -é, -emmo, -este, -erono (etti, -, ette, -, -, ettero)
-FUTU: -erò, -erai, -erà, -eremo, -erete, -erano
+FUTU: -erò, -erai, -erà, -eremo, -erete, -eranno
 COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
 
 avere
@@ -56,8 +57,8 @@ PRES: -o, -i, -e, -iamo, -ite, -ono
 PAPR: ho/sono -ito
 IMPE: -ivo, -ivi, -iva, -ivamo, -ivate, -ivano
 PARE: -ii, -isti, -ì, -immo, -iste, -irono
-FUTU: -erò, -erai, -erà, -eremo, -erete, -erano
-COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
+FUTU: -irò, -irai, -irà, -iremo, -irete, -iranno
+COND: -irei, -iresti, -irebbe, -iremmo, -ireste, -irebbero
 
 venire
 dire
