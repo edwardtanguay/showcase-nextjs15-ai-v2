@@ -6,7 +6,40 @@ PARE: Passato remoto
 FUTU: Futuro semplice
 COND: Condizionale presente
 */
+== ARE =================================
+fare
 
+parlare
+
+lasciare
+eliminare
+cancellare
+
+== ERE =================================
+avere
+essere
+volere
+dovere
+potere
+
+leggere
+
+rimuovere
+
+== IRE =================================
+fornire
+dormire
+
+capire
+finire
+pulire
+
+
+fare; to do/make; 4.9
+faccio, fai, fa, facciamo, fate, fanno
+
+fornire; to provide; 4.4; isc
+fornisco, fornisci, fornisce, forniamo, fornite, forniscono
 
 parlare; to speak; 4.9; regular
 parlo, parli, parla, parliamo, parlate, parlano
