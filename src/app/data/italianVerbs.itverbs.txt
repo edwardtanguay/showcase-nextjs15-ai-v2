@@ -1,37 +1,74 @@
 /*
 PRES: Presente
-PAPR: Passato prossimo
+PAPR: Passato prossimo - ho/hai/ha/abbiamo/avete/hanno, sono/sei/è/siamo/siete/sono
 IMPE: Imperfetto
 PARE: Passato remoto
 FUTU: Futuro semplice
 COND: Condizionale presente
 */
 == ARE =================================
+PRES: -o, -i, -a, -iamo, -ate, -ano 
+PAPR: ho/sono -ato
+IMPE: -avo, -avi, -ava, -avamo, -avate, -avano
+PARE: -ai, -asti, -ò, -ammo, -aste, -arono
+FUTU: -erò, -erai, -erà, -eremo, -erete, -erano
+COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
+
+stare
 fare
+andare
 
 parlare
+chiamare
+arrivare
+mangiare
 
 lasciare
 eliminare
 cancellare
 
 == ERE =================================
+PRES: 
+PAPR: 
+IMPE: 
+PARE: 
+FUTU: 
+COND: 
+
 avere
 essere
 volere
 dovere
 potere
 
+prendere
 leggere
 
+rimanere
+nascere
+aggiungere
 rimuovere
 
+
 == IRE =================================
+PRES: 
+PAPR: 
+IMPE: 
+PARE: 
+FUTU: 
+COND: 
+
+venire
+dire
+
+partire
+uscire
 fornire
 dormire
 
 capire
 finire
+morire
 pulire
 
 
