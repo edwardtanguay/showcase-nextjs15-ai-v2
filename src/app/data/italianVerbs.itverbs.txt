@@ -39,6 +39,7 @@ COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
 avere
 essere
 volere
+	- visto
 dovere
 potere
 
