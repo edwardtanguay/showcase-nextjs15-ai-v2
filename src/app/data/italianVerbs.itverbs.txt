@@ -20,13 +20,21 @@ fare
 andare
 
 parlare
+pensare
 *chiamare
-arrivare
-mangiare
-
 lasciare
+arrivare
+sperare
+mangiare
+provare
+
 eliminare
 cancellare
+assicurare
+completare
+passare
+guidare
+guardare
 
 == ERE =================================
 PRES: -o, -i, -e, -iamo, -ete, -ono 
@@ -43,6 +51,7 @@ volere
 dovere
 potere
 
+sapere
 *vendere
 prendere
 leggere
@@ -71,6 +80,7 @@ dormire
 
 capire
 finire
+apparire
 morire
 pulire
 
