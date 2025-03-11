@@ -19,7 +19,7 @@ fare
 andare
 
 parlare
-chiamare
+*chiamare
 arrivare
 mangiare
 
@@ -41,6 +41,7 @@ volere
 dovere
 potere
 
+*vendere
 prendere
 leggere
 
@@ -51,17 +52,17 @@ rimuovere
 
 
 == IRE =================================
-PRES: 
-PAPR: 
-IMPE: 
-PARE: 
-FUTU: 
-COND: 
+PRES: -o, -i, -e, -iamo, -ite, -ono 
+PAPR: ho/sono -ito
+IMPE: -ivo, -ivi, -iva, -ivamo, -ivate, -ivano
+PARE: -ii, -isti, -ì, -immo, -iste, -irono
+FUTU: -erò, -erai, -erà, -eremo, -erete, -erano
+COND: -erei, -eresti, -erebbe, -eremmo, -ereste, -erebbero
 
 venire
 dire
 
-partire
+*partire
 uscire
 fornire
 dormire
